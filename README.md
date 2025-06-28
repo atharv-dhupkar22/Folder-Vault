@@ -41,6 +41,11 @@ Welcome to **Folder Vault**, a secure and user-friendly file storage system that
   Files and data are securely tied to the logged-in user.
 
 ---
+ Install dependencies
+npm install
+
+Run the application
+npm run dev
 
 ## 🎨 Enhanced User Interface
 
